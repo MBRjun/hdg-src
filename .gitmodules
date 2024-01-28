@@ -9,3 +9,9 @@
 	path = luci-theme-argon
 	url = https://github.com/jerrykuku/luci-theme-argon
 	branch = master
+[submodule "openwrt-vlmcsd"]
+	path = openwrt-vlmcsd
+	url = https://github.com/mchome/openwrt-vlmcsd
+[submodule "luci-app-vlmcsd"]
+	path = luci-app-vlmcsd
+	url = https://github.com/mchome/luci-app-vlmcsd
